@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Lumel_Test/static/css/main.c506eefb.css",
+    "main.js": "/Lumel_Test/static/js/main.0c6b8f81.js",
+    "index.html": "/Lumel_Test/index.html",
+    "main.c506eefb.css.map": "/Lumel_Test/static/css/main.c506eefb.css.map",
+    "main.0c6b8f81.js.map": "/Lumel_Test/static/js/main.0c6b8f81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c506eefb.css",
+    "static/js/main.0c6b8f81.js"
+  ]
+}
